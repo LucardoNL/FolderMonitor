@@ -3,9 +3,6 @@
 # FolderMonitor
 Monitors a Windows folder and its subfolders using Windows usage auditing and event log parsing.
 
-OS: Windows
-Python: 2.7
-
 ## Usage
 This small script can be packaged into an executable with pyinstaller.
 
