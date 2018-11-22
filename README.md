@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/python-2.7-blue.svg) ![](https://img.shields.io/badge/platform-windows-lightgrey.svg)
+
 # FolderMonitor
 Monitors a Windows folder and its subfolders using Windows usage auditing and event log parsing.
 
